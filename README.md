@@ -7,8 +7,7 @@ Tools/Platform : ipython notebook 3.7.1 (default, Oct 28 2018, 08:39:03) [MSC v.
 
 Analysis Covered :
 
-* Getting the Data
-* Import the data using Pandas
+* Importing the data using Pandas
 * Dataframe characteristics
 * Subsetting the Dataframe
 * Conditional Subsetting
