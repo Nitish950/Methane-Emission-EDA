@@ -7,11 +7,11 @@ Tools/Platform : ipython notebook 3.7.1 (default, Oct 28 2018, 08:39:03) [MSC v.
 
 Analysis Covered :
 
-Get the Data
-Import the data using Pandas
-Dataframe characteristics
-Subsetting the Dataframe
-Conditional Subsetting
-Data Cleaning
-Data Exploration : Exploring data through scatter plots, histograms, bar graphs
-Creating an interactive searchable widget
+* Getting the Data
+* Import the data using Pandas
+* Dataframe characteristics
+* Subsetting the Dataframe
+* Conditional Subsetting
+* Data Cleaning
+* Data Exploration : Exploring data through scatter plots, histograms, bar graphs
+* Creating an interactive searchable widget
