@@ -14,3 +14,5 @@ Analysis Covered :
 * Data Cleaning
 * Data Exploration : Exploring data through scatter plots, histograms, bar graphs
 * Creating an interactive searchable widget
+
+Methane emission by region was plotted for the year 2012 and 1970, showing North America to still be the largest emitter of methane. Further, a filter was created to choose a specific country or region and plot its emission over the year. In the end, an interactive UI is created which utilizes the filter function to give the output of the desired country/region. 
